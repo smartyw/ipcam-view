@@ -3,7 +3,7 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ipcam--view-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3358)
 [![JitPack](https://jitpack.io/v/niqdev/ipcam-view.svg)](https://jitpack.io/#niqdev/ipcam-view)
 
-Android MJPEG video streaming made simple!
+Android MJPEG video streaming made simple
 
 A wrapper library around the well known [SimpleMjpegView](https://bitbucket.org/neuralassembly/simplemjpegview) and [android-camera-axis](https://code.google.com/archive/p/android-camera-axis/) projects.
 
